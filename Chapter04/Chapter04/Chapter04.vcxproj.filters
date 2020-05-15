@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\cartesian_product.cpp" />
+    <ClCompile Include="..\combine.cpp" />
+    <ClCompile Include="..\concatenation.cpp" />
+    <ClCompile Include="..\functions_on_the_run.cpp" />
+    <ClCompile Include="..\multicaller.cpp" />
+    <ClCompile Include="..\std_function.cpp" />
+    <ClCompile Include="..\transform_if.cpp" />
+  </ItemGroup>
+</Project>

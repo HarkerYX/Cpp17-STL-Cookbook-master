@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\async.cpp" />
+    <ClCompile Include="..\auto_parallel.cpp" />
+    <ClCompile Include="..\avoid_deadlock.cpp" />
+    <ClCompile Include="..\call_once.cpp" />
+    <ClCompile Include="..\chains.cpp" />
+    <ClCompile Include="..\mandelbrot.cpp" />
+    <ClCompile Include="..\multi_producer_consumer.cpp" />
+    <ClCompile Include="..\producer_consumer.cpp" />
+    <ClCompile Include="..\shared_lock.cpp" />
+    <ClCompile Include="..\sleep.cpp" />
+    <ClCompile Include="..\sync_cout.cpp" />
+    <ClCompile Include="..\threads.cpp" />
+  </ItemGroup>
+</Project>

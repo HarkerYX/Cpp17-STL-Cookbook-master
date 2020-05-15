@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\count_all_words.cpp" />
+    <ClCompile Include="..\creating_strings.cpp" />
+    <ClCompile Include="..\custom_string.cpp" />
+    <ClCompile Include="..\filling_containers.cpp" />
+    <ClCompile Include="..\formatting.cpp" />
+    <ClCompile Include="..\initialize_complex_objects_from_file_input.cpp" />
+    <ClCompile Include="..\link_extraction.cpp" />
+    <ClCompile Include="..\log_regions.cpp" />
+    <ClCompile Include="..\ostream_printing.cpp" />
+    <ClCompile Include="..\pretty_print_on_the_fly.cpp" />
+    <ClCompile Include="..\readable_error_msg.cpp" />
+    <ClCompile Include="..\string_view.cpp" />
+    <ClCompile Include="..\strings_from_user_input.cpp" />
+    <ClCompile Include="..\trim_whitespace.cpp" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\compress.cpp" />
+    <ClCompile Include="..\error_sum.cpp" />
+    <ClCompile Include="..\fourier.cpp" />
+    <ClCompile Include="..\gather.cpp" />
+    <ClCompile Include="..\mandelbrot.cpp" />
+    <ClCompile Include="..\remove_consecutive_whitespace.cpp" />
+    <ClCompile Include="..\split.cpp" />
+    <ClCompile Include="..\trie.cpp" />
+    <ClCompile Include="..\word_suggestion.cpp" />
+  </ItemGroup>
+</Project>

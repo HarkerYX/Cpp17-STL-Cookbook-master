@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\copying_items.cpp" />
+    <ClCompile Include="..\dictionary_merge.cpp" />
+    <ClCompile Include="..\finding_items.cpp" />
+    <ClCompile Include="..\input_permutations.cpp" />
+    <ClCompile Include="..\pattern_search_string.cpp" />
+    <ClCompile Include="..\reducing_range_in_vector.cpp" />
+    <ClCompile Include="..\removing_items_from_containers.cpp" />
+    <ClCompile Include="..\sampling_vectors.cpp" />
+    <ClCompile Include="..\sorting_containers.cpp" />
+    <ClCompile Include="..\transforming_items_in_containers.cpp" />
+  </ItemGroup>
+</Project>

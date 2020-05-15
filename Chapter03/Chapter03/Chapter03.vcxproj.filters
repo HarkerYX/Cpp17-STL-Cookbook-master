@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\algorithms_in_iterators.cpp" />
+    <ClCompile Include="..\checked_iterator.cpp" />
+    <ClCompile Include="..\iterator_sentinel.cpp" />
+    <ClCompile Include="..\iterator_wrapper.cpp" />
+    <ClCompile Include="..\making_iterators_stl_compatible.cpp" />
+    <ClCompile Include="..\own_iterable_range.cpp" />
+    <ClCompile Include="..\reverse_iterators.cpp" />
+    <ClCompile Include="..\zip_iterator.cpp" />
+  </ItemGroup>
+</Project>
