@@ -9,7 +9,7 @@ bool divide_remainder(int dividend, int divisor, int &fraction, int &remainder)
         return false;
     }
     fraction  = dividend / divisor;
-    remainder = dividend % divisor;
+    remainder = dividend % divisor;`
     return true;
 }
 
