@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="0">
+      <df name=".vs">
+        <df name="Cpp17-STL-Cookbook">
+          <df name="v16">
+            <df name="ipch">
+              <df name="AutoPCH">
+                <df name="55b050fe52539a70">
+                </df>
+                <df name="56cce10090de9b59">
+                </df>
+                <df name="763fab87c0031c29">
+                </df>
+                <df name="94796092bb8cfe8f">
+                </df>
+              </df>
+            </df>
+          </df>
+        </df>
+      </df>
+      <df name="Chapter01">
+        <df name="Chapter01">
+          <df name="Debug">
+            <df name="Chapter01.tlog">
+            </df>
+          </df>
+          <df name="x64">
+            <df name="Debug">
+              <df name="Chapter01.tlog">
+              </df>
+            </df>
+          </df>
+        </df>
+        <in>fold_expressions.cpp</in>
+        <in>if_constexpr.cpp</in>
+        <in>if_switch_initializer.cpp</in>
+        <in>inline_variable.cpp</in>
+        <in>structured_bindings.cpp</in>
+        <in>template_class_type_deduction.cpp</in>
+      </df>
+      <df name="Chapter02">
+        <df name="Chapter02">
+          <df name="Debug">
+            <df name="Chapter02.tlog">
+            </df>
+          </df>
+          <df name="x64">
+            <df name="Debug">
+              <df name="Chapter02.tlog">
+              </df>
+            </df>
+          </df>
+        </df>
+        <in>custom_type_unordered_map.cpp</in>
+        <in>efficient_insert_or_reassign_to_map.cpp</in>
+        <in>erase_remove_idiom.cpp</in>
+        <in>filter_unique_user_input.cpp</in>
+        <in>keep_vector_sorted.cpp</in>
+        <in>map_insertion_hint.cpp</in>
+        <in>mapnode_key_modification.cpp</in>
+        <in>personal_organiser_priority_queue.cpp</in>
+        <in>quick_delete_from_unordered_vector.cpp</in>
+        <in>rpn_calculator.cpp</in>
+        <in>sentence_length.cpp</in>
+        <in>vector_access_fast_or_safe.cpp</in>
+        <in>word_frequency_counter.cpp</in>
+      </df>
+      <df name="Chapter03">
+        <df name="Chapter03">
+          <df name="Debug">
+            <df name="Chapter03.tlog">
+            </df>
+          </df>
+          <df name="x64">
+            <df name="Debug">
+              <df name="Chapter03.tlog">
+              </df>
+            </df>
+          </df>
+        </df>
+        <in>algorithms_in_iterators.cpp</in>
+        <in>checked_iterator.cpp</in>
+        <in>iterator_sentinel.cpp</in>
+        <in>iterator_wrapper.cpp</in>
+        <in>making_iterators_stl_compatible.cpp</in>
+        <in>own_iterable_range.cpp</in>
+        <in>reverse_iterators.cpp</in>
+        <in>zip_iterator.cpp</in>
+      </df>
+      <df name="Chapter04">
+        <df name="Chapter04">
+          <df name="Debug">
+            <df name="Chapter04.tlog">
+            </df>
+          </df>
+          <df name="x64">
+            <df name="Debug">
+              <df name="Chapter04.tlog">
+              </df>
+            </df>
+          </df>
+        </df>
+        <in>cartesian_product.cpp</in>
+        <in>combine.cpp</in>
+        <in>concatenation.cpp</in>
+        <in>functions_on_the_run.cpp</in>
+        <in>multicaller.cpp</in>
+        <in>std_function.cpp</in>
+        <in>transform_if.cpp</in>
+      </df>
+      <df name="Chapter05">
+        <df name="Chapter05">
+          <df name="Debug">
+            <df name="Chapter05.tlog">
+            </df>
+          </df>
+          <df name="x64">
+            <df name="Debug">
+              <df name="Chapter05.tlog">
+              </df>
+            </df>
+          </df>
+        </df>
+        <in>copying_items.cpp</in>
+        <in>dictionary_merge.cpp</in>
+        <in>finding_items.cpp</in>
+        <in>input_permutations.cpp</in>
+        <in>pattern_search_string.cpp</in>
+        <in>reducing_range_in_vector.cpp</in>
+        <in>removing_items_from_containers.cpp</in>
+        <in>sampling_vectors.cpp</in>
+        <in>sorting_containers.cpp</in>
+        <in>transforming_items_in_containers.cpp</in>
+      </df>
+      <df name="Chapter06">
+        <df name="Chapter06">
+          <df name="Debug">
+            <df name="Chapter06.tlog">
+            </df>
+          </df>
+          <df name="x64">
+            <df name="Debug">
+              <df name="Chapter06.tlog">
+              </df>
+            </df>
+          </df>
+        </df>
+        <in>compress.cpp</in>
+        <in>error_sum.cpp</in>
+        <in>fourier.cpp</in>
+        <in>gather.cpp</in>
+        <in>mandelbrot.cpp</in>
+        <in>remove_consecutive_whitespace.cpp</in>
+        <in>split.cpp</in>
+        <in>trie.cpp</in>
+        <in>word_suggestion.cpp</in>
+      </df>
+      <df name="Chapter07">
+        <df name="Chapter07">
+          <df name="x64">
+            <df name="Debug">
+              <df name="Chapter07.tlog">
+              </df>
+            </df>
+          </df>
+        </df>
+        <in>count_all_words.cpp</in>
+        <in>creating_strings.cpp</in>
+        <in>custom_string.cpp</in>
+        <in>filling_containers.cpp</in>
+        <in>formatting.cpp</in>
+        <in>initialize_complex_objects_from_file_input.cpp</in>
+        <in>link_extraction.cpp</in>
+        <in>log_regions.cpp</in>
+        <in>ostream_printing.cpp</in>
+        <in>pretty_print_on_the_fly.cpp</in>
+        <in>readable_error_msg.cpp</in>
+        <in>string_view.cpp</in>
+        <in>strings_from_user_input.cpp</in>
+        <in>trim_whitespace.cpp</in>
+      </df>
+      <df name="Chapter08">
+        <df name="Chapter08">
+          <df name="x64">
+            <df name="Debug">
+              <df name="Chapter08.tlog">
+              </df>
+            </df>
+          </df>
+        </df>
+        <in>any.cpp</in>
+        <in>apply_functions_on_tuples.cpp</in>
+        <in>legacy_shared_ptr.cpp</in>
+        <in>optional.cpp</in>
+        <in>random_distro.cpp</in>
+        <in>random_generator.cpp</in>
+        <in>ratio_conversion.cpp</in>
+        <in>relative_absolute_times.cpp</in>
+        <in>shared_from_this.cpp</in>
+        <in>shared_members.cpp</in>
+        <in>shared_ptr.cpp</in>
+        <in>shared_ptr_different_member.cpp</in>
+        <in>tuple.cpp</in>
+        <in>unique_ptr.cpp</in>
+        <in>variant.cpp</in>
+        <in>weak_ptr.cpp</in>
+      </df>
+      <df name="Chapter09">
+        <df name="Chapter09">
+          <df name="Debug">
+            <df name="Chapter09.tlog">
+            </df>
+          </df>
+          <df name="x64">
+            <df name="Debug">
+              <df name="Chapter09.tlog">
+              </df>
+            </df>
+          </df>
+        </df>
+        <in>async.cpp</in>
+        <in>auto_parallel.cpp</in>
+        <in>avoid_deadlock.cpp</in>
+        <in>call_once.cpp</in>
+        <in>chains.cpp</in>
+        <in>mandelbrot.cpp</in>
+        <in>multi_producer_consumer.cpp</in>
+        <in>producer_consumer.cpp</in>
+        <in>shared_lock.cpp</in>
+        <in>sleep.cpp</in>
+        <in>sync_cout.cpp</in>
+        <in>threads.cpp</in>
+      </df>
+      <df name="Chapter10">
+        <df name="Chapter10">
+          <df name="Debug">
+            <df name="Chapter10.tlog">
+            </df>
+          </df>
+          <df name="x64">
+            <df name="Debug">
+              <df name="Chapter10.tlog">
+              </df>
+            </df>
+          </df>
+        </df>
+        <in>canonical_filepath.cpp</in>
+        <in>dupe_compress.cpp</in>
+        <in>file_size.cpp</in>
+        <in>file_type.cpp</in>
+        <in>grepper.cpp</in>
+        <in>list.cpp</in>
+        <in>normalizer.cpp</in>
+        <in>renamer.cpp</in>
+      </df>
+    </df>
+  </logicalFolder>
+  <projectmakefile></projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <platform>2</platform>
+      </toolsSet>
+      <compile>
+        <compiledirpicklist>
+          <compiledirpicklistitem>.</compiledirpicklistitem>
+          <compiledirpicklistitem>${AUTO_FOLDER}</compiledirpicklistitem>
+        </compiledirpicklist>
+        <compiledir>${AUTO_FOLDER}</compiledir>
+        <compilecommandpicklist>
+          <compilecommandpicklistitem>${MAKE} ${ITEM_NAME}.o</compilecommandpicklistitem>
+          <compilecommandpicklistitem>${AUTO_COMPILE}</compilecommandpicklistitem>
+        </compilecommandpicklist>
+        <compilecommand>${AUTO_COMPILE}</compilecommand>
+      </compile>
+      <dbx_gdbdebugger version="1">
+        <gdb_pathmaps>
+        </gdb_pathmaps>
+        <gdb_interceptlist>
+          <gdbinterceptoptions gdb_all="false" gdb_unhandled="true" gdb_unexpected="true"/>
+        </gdb_interceptlist>
+        <gdb_options>
+          <DebugOptions>
+          </DebugOptions>
+        </gdb_options>
+        <gdb_buildfirst gdb_buildfirst_overriden="false" gdb_buildfirst_old="false"/>
+      </dbx_gdbdebugger>
+      <nativedebugger version="1">
+        <engine>gdb</engine>
+      </nativedebugger>
+      <runprofile version="9">
+        <runcommandpicklist>
+          <runcommandpicklistitem>"${OUTPUT_PATH}"</runcommandpicklistitem>
+        </runcommandpicklist>
+        <runcommand>"${OUTPUT_PATH}"</runcommand>
+        <rundir>.</rundir>
+        <buildfirst>false</buildfirst>
+        <terminal-type>0</terminal-type>
+        <remove-instrumentation>0</remove-instrumentation>
+        <environment>
+        </environment>
+      </runprofile>
+    </conf>
+  </confs>
+</configurationDescriptor>
