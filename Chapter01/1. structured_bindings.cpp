@@ -9,7 +9,7 @@ bool divide_remainder(int dividend, int divisor, int &fraction, int &remainder)
         return false;
     }
     fraction  = dividend / divisor;
-    remainder = dividend % divisor;`
+    remainder = dividend % divisor; 
     return true;
 }
 
@@ -53,8 +53,7 @@ int main()
         std::cout << a << ", " << b << ", " << c << "\n";
     }
 
-    { // C++17, use structured binding in for-loop
-
+    { // C++17, use structured  binding in for-loop
         std::map<std::string, size_t> animal_population {
             {"humans",   7000000000},
             {"chickens", 17863376000},

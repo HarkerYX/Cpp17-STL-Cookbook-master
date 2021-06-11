@@ -3,7 +3,6 @@
   <ItemGroup>
     <ClCompile Include="..\custom_type_unordered_map.cpp" />
     <ClCompile Include="..\efficient_insert_or_reassign_to_map.cpp" />
-    <ClCompile Include="..\erase_remove_idiom.cpp" />
     <ClCompile Include="..\filter_unique_user_input.cpp" />
     <ClCompile Include="..\keep_vector_sorted.cpp" />
     <ClCompile Include="..\map_insertion_hint.cpp" />
@@ -14,5 +13,6 @@
     <ClCompile Include="..\sentence_length.cpp" />
     <ClCompile Include="..\vector_access_fast_or_safe.cpp" />
     <ClCompile Include="..\word_frequency_counter.cpp" />
+    <ClCompile Include="..\1. erase_remove_idiom.cpp" />
   </ItemGroup>
 </Project>

@@ -13,7 +13,11 @@
                 </df>
                 <df name="763fab87c0031c29">
                 </df>
+                <df name="78f36c5ef3ac878">
+                </df>
                 <df name="94796092bb8cfe8f">
+                </df>
+                <df name="a0796d0dc9142bd3">
                 </df>
               </df>
             </df>
@@ -33,11 +37,11 @@
             </df>
           </df>
         </df>
+        <in>1. structured_bindings.cpp</in>
+        <in>2. if_switch_initializer.cpp</in>
         <in>fold_expressions.cpp</in>
         <in>if_constexpr.cpp</in>
-        <in>if_switch_initializer.cpp</in>
         <in>inline_variable.cpp</in>
-        <in>structured_bindings.cpp</in>
         <in>template_class_type_deduction.cpp</in>
       </df>
       <df name="Chapter02">
@@ -53,9 +57,9 @@
             </df>
           </df>
         </df>
+        <in>1. erase_remove_idiom.cpp</in>
         <in>custom_type_unordered_map.cpp</in>
         <in>efficient_insert_or_reassign_to_map.cpp</in>
-        <in>erase_remove_idiom.cpp</in>
         <in>filter_unique_user_input.cpp</in>
         <in>keep_vector_sorted.cpp</in>
         <in>map_insertion_hint.cpp</in>
@@ -254,6 +258,10 @@
         <in>list.cpp</in>
         <in>normalizer.cpp</in>
         <in>renamer.cpp</in>
+      </df>
+      <df name="x64">
+        <df name="Debug">
+        </df>
       </df>
     </df>
   </logicalFolder>

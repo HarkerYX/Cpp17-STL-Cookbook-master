@@ -3,6 +3,7 @@
 #include <map>
 #include <string>
 
+// C++ 11
 template <typename T>
 void print_charcount_cpp11(const T &map, char c)
 {
@@ -17,6 +18,7 @@ void print_charcount_cpp11(const T &map, char c)
     // itr is not necessarily safe to dereference, but still available
 }
 
+// C++ 17
 template <typename T>
 void print_charcount_cpp17(const T &map, char c)
 {
@@ -42,10 +44,12 @@ int main()
     {
         std::cout << "Please enter a character: ";
         switch (char c (getchar()); c) {
-        case 'a' ... 'z':
+        //case 'a' ... 'z':
+        case 'a':
             std::cout << "You entered a lower case letter: " << c << "\n";
             break;
-        case 'A' ... 'Z':
+        //case 'A' ... 'Z':
+        case 'A':
             std::cout << "You entered an upper case letter: " << c << "\n";
             break;
         default:
