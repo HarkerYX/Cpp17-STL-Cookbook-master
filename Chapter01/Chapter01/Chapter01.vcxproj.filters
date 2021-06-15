@@ -5,7 +5,7 @@
     <ClCompile Include="..\if_constexpr.cpp" />
     <ClCompile Include="..\inline_variable.cpp" />
     <ClCompile Include="..\template_class_type_deduction.cpp" />
-    <ClCompile Include="..\1. structured_bindings.cpp" />
     <ClCompile Include="..\2. if_switch_initializer.cpp" />
+    <ClCompile Include="..\1. structured_bindings.cpp" />
   </ItemGroup>
 </Project>
